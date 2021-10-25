@@ -60,12 +60,6 @@ function generateDataForTeams(teamsList) {
     
         team.fs = generateRandomFouls();
         team.pt = generateRandomPoints();
-        /* let { pt, fs } = team;
-    
-        pt = generateRandomPoints();
-        fs = generateRandomFouls(); */
-    
-        /* console.log(team); */
     }
 }
 
